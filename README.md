@@ -23,7 +23,7 @@
 
 <a href="https://huangetech.gitee.io/pay/index2.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;"></a>
 
-## 赞赏名单
+## 捐赠名单
 
 | 小伙伴         | 方式   | 金额   | 日期       | 备注                 |
 | -------------- | ------ | ------ | ---------- | -------------------- |
@@ -75,7 +75,7 @@
 | 隐没   | 微信   | 1.00  | 7/03/2023  |            |
 | 橘子   | 微信   | 1.00   | 7/03/2023  |  一点心意，学生党没钱          |
 | 郭*豪   | 微信   | 5.00   | 7/03/2023  |            |
-
+| 苏世.   | 我的世界服务器一台   | *   | 7/09/2023  |            |
 ## 支出名单
 | 日期       | 消费内容       | 金额  |
 | ---------- | -------------- | ----- |
