@@ -1,5 +1,5 @@
 # SHSSEDU捐赠者名单
-
+https://sponsors.shssedu.ac.cn/
 
 谢谢您的支持。
 
@@ -23,7 +23,7 @@
 
 <a href="https://huangetech.gitee.io/pay/index2.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;"></a>
 
-## 捐赠名单
+## 捐赠名单（暂停更新，改为更新JSON文件）
 
 | 小伙伴         | 方式   | 金额   | 日期       | 备注                 |
 | -------------- | ------ | ------ | ---------- | -------------------- |
