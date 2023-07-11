@@ -369,5 +369,12 @@
         "amount": 2.11,
         "date": "7/11/2023",
         "comment": ""
+    },
+    {
+        "name": "Niko",
+        "payment_method": "微信",
+        "amount": 100.00,
+        "date": "7/11/2023",
+        "comment": "喵～"
     }
 ]
