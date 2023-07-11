@@ -128,7 +128,7 @@
         $.getJSON("donors.json", function (data) {
             // Loop through donor data and add to table rows
             $.each(data, function (key, val) {
-                var row = "<tr><td>" + val.name + "</td><td>$" + val.amount + "</td><td>" + val.payment_method + "</td><td>" + val.date + "</td><td>" + val.comment + "</td></tr>";
+                var row = "<tr><td>" + val.name + "</td><td>¥" + val.amount + "</td><td>" + val.payment_method + "</td><td>" + val.date + "</td><td>" + val.comment + "</td></tr>";
                 $(".donor-list tbody").append(row);
             });
         });
@@ -137,7 +137,7 @@
         $.getJSON("expenses.json", function (data) {
             // Loop through expense data and add to table rows
             $.each(data, function (key, val) {
-                var row = "<tr><td>" + val.description + "</td><td>" + val.category + "</td><td>$" + val.amount + "</td><td>" + val.date + "</td></tr>";
+                var row = "<tr><td>" + val.description + "</td><td>" + val.category + "</td><td>¥" + val.amount + "</td><td>" + val.date + "</td></tr>";
                 $(".expense-list tbody").append(row);
             });
         });
