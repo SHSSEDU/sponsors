@@ -376,5 +376,12 @@
         "amount": 100.00,
         "date": "7/11/2023",
         "comment": "喵～"
+    },
+    {
+        "name": "aggressive",
+        "payment_method": "微信",
+        "amount": 9.99,
+        "date": "7/11/2023",
+        "comment": "火钳刘明~tlc"
     }
 ]
