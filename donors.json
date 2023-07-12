@@ -383,5 +383,12 @@
         "amount": 9.99,
         "date": "7/11/2023",
         "comment": "火钳刘明~tlc"
+    },
+    {
+        "name": "山西刀削面自动化在读博士",
+        "payment_method": "OPENAI Chatgpt Key 一份",
+        "amount": ,
+        "date": "7/12/2023",
+        "comment": "价值20刀"
     }
 ]
