@@ -446,5 +446,19 @@
         "amount": 1.88,
         "date": "7/14/2023",
         "comment": ""
+    },
+    {
+        "name": "shadow",
+        "payment_method": "微信",
+        "amount": 5.00,
+        "date": "7/15/2023",
+        "comment": ""
+    },
+    {
+        "name": "PaperFly",
+        "payment_method": "QQ",
+        "amount": 2.00,
+        "date": "7/16/2023",
+        "comment": ""
     }
 ]
