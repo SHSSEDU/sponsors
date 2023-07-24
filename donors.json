@@ -481,5 +481,19 @@
         "amount": 100.00,
         "date": "7/17/2023",
         "comment": "希望可以走出局限性，走向更广阔的世界。"
+    },
+    {
+        "name": "**",
+        "payment_method": "微信",
+        "amount": 10.00,
+        "date": "7/21/2023",
+        "comment": "安得广厦千万间，大庇天下寒士俱欢颜"
+    },,
+    {
+        "name": "aoe",
+        "payment_method": "微信",
+        "amount": 1.00,
+        "date": "7/23/2023",
+        "comment": "大佬辛苦了"
     }
 ]
