@@ -312,7 +312,7 @@
         "payment_method": "微信",
         "amount": 1.00,
         "date": "7/03/2023",
-        "comment": "悠悠华夏，巍巍山河"
+        "comment": ""
     },
     {
         "name": "隐没",
@@ -347,7 +347,7 @@
         "payment_method": "微信",
         "amount": 10.10,
         "date": "7/11/2023",
-        "comment": "希望Shanhe能长成一颗大树"
+        "comment": ""
     },
     {
         "name": "那个胖胖的同学",
@@ -361,7 +361,7 @@
         "payment_method": "支付宝",
         "amount": 8.00,
         "date": "7/11/2023",
-        "comment": "不忘初心，牢记使命"
+        "comment": ""
     },
     {
         "name": "**宝",
@@ -438,7 +438,7 @@
         "payment_method": "微信",
         "amount": 10.00,
         "date": "7/14/2023",
-        "comment": "愿天下学习不必为求学而背井离乡～"
+        "comment": ""
     },
     {
         "name": "张先生",
@@ -473,7 +473,7 @@
         "payment_method": "微信",
         "amount": 5.00,
         "date": "7/17/2023",
-        "comment": "守得云开见月明"
+        "comment": ""
     },
     {
         "name": "**亮",
@@ -487,7 +487,7 @@
         "payment_method": "微信",
         "amount": 10.00,
         "date": "7/21/2023",
-        "comment": "安得广厦千万间，大庇天下寒士俱欢颜"
+        "comment": ""
     },
     {
         "name": "aoe",
@@ -495,5 +495,12 @@
         "amount": 1.00,
         "date": "7/23/2023",
         "comment": "大佬辛苦了"
+    },
+    {
+        "name": "cpf23333",
+        "payment_method": "微信",
+        "amount": 100.00,
+        "date": "8/08/2023",
+        "comment": ""
     }
 ]
